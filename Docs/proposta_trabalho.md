@@ -33,8 +33,9 @@
 - Apresentar o conceito de Data Warehouse, diferenciar a arquitetura do que seria um Datalake
 - Explorar as etapas do ciclo de vida de engenharia de dados:
     - Geração/Coleta
+    - Armazenamento
     - Ingestão/Transformação
-    - Armazenamento/Compartilhamento
+    - Compartilhamento/Serving
 - Discutir sobre os processos de ETL/ELT:
     - Apresentar exemplos de notebooks executando ambos os processos
 
