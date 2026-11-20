@@ -6,7 +6,6 @@ DIA 2:
 - Slides de apresentação
 - Material didático
 - Demonstrações no colab
-    - 
 
 DIA 3:
 - Base de dados descentralizadas
