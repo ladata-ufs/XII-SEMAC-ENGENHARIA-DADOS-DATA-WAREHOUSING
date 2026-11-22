@@ -37,10 +37,8 @@
     - Geração/Coleta
     - Armazenamento
     - Ingestão/Transformação
-    - Disponibilização
-- Discutir sobre os processos de ETL/ELT:
-    - Apresentação prática dos conceitos utilizando notebooks e ferramentas relevantes
-
+        - Discutir sobre os processos de ETL/ELT
+    - Disponibilização/Serving & Analytics
 
 ### DIA 3:
 - Realização de projeto prático:
