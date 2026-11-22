@@ -30,14 +30,17 @@
 - Desafios enfrentados no cotidiano de um engenheiro de dados
 
 ### DIA 2: 
-- Apresentar o conceito de Data Warehouse, diferenciar a arquitetura do que seria um Datalake
+- Apresentar o conceito de Data Warehouse
+- Data Warehouse, Data Lake, Data Lakehouse, Modern Data Stack
+- Orquestração & DataOps
 - Explorar as etapas do ciclo de vida de engenharia de dados:
     - Geração/Coleta
     - Armazenamento
     - Ingestão/Transformação
-    - Compartilhamento/Serving
+    - Disponibilização
 - Discutir sobre os processos de ETL/ELT:
-    - Apresentar exemplos de notebooks executando ambos os processos
+    - Apresentação prática dos conceitos utilizando notebooks e ferramentas relevantes
+
 
 ### DIA 3:
 - Realização de projeto prático:
