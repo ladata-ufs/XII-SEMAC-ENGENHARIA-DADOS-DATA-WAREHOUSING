@@ -1,0 +1,6 @@
+id_pedido,data,produto,valor
+1,2026-03-01,  notebook ,3500.0
+2,2026-03-01,MOUSE,150.0
+3,2026-03-02,teclado,200.0
+4,,monitor,800.0
+5,2026-03-03,MOUSE ,150.0
