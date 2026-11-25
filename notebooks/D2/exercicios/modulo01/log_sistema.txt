@@ -1,0 +1,5 @@
+[2026-11-25 08:00:01] INFO: Sistema da loja iniciado.
+[2026-11-25 08:05:12] LOGIN: Usuario 'carlos_silva' entrou na conta.
+[2026-11-25 08:07:45] CARRINHO: Item 'Teclado Mecanico' adicionado.
+[2026-11-25 08:10:03] PAGAMENTO: Pedido #4092 aprovado via PIX.
+[2026-11-25 08:12:30] ERRO: Falha ao calcular frete para CEP 49000-000.

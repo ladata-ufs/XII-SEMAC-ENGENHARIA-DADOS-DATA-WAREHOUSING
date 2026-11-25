@@ -1,0 +1,26 @@
+id_produto,nome,categoria,preco
+1,Mouse Sem Fio,Perifericos,85.9
+2,Teclado Mecanico,Perifericos,249.9
+3,Cabo HDMI 2m,Acessorios,35.0
+4,Monitor 24 Polegadas,Monitores,799.0
+5,Headset Gamer,Audio,159.5
+6,Webcam Full HD,Perifericos,189.0
+7,Mousepad Extra Grande,Acessorios,49.9
+8,SSD NVMe 1TB,Armazenamento,
+9,Microfone,Audio,120.0
+10,Suporte Articulado Monitor,Acessorios,145.0
+11,Placa de Video RTX 4060,Hardware,1899.9
+12,Memoria RAM 16GB DDR4,Hardware,230.0
+13,Hub USB-C 7 em 1,Acessorios,70.5
+14,Cadeira Gamer Ergonomica,Moveis,950.0
+15,Mouse Ergonomico,Perifericos,65.0
+16,Fonte 650W 80 Plus Bronze,Hardware,340.0
+17,Microfone Condensador USB,Audio,275.5
+18,Filtro de Linha 6 Tomadas,,42.0
+19,Monitor 27 Polegadas 144Hz,Monitores,1199.99
+20,Adaptador Bluetooth 5.0,Acessorios,29.9
+21,,Armazenamento,310.0
+22,Gabinete Mid Tower Vidro,Hardware,289.9
+23,Caixa de Som Bluetooth,,179.0
+24,Cooler para Processador,Hardware,
+25,Teclado Numerico USB,Perifericos,55.0
