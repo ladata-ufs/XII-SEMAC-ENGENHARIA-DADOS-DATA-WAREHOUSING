@@ -1,0 +1,12 @@
+id_venda,data_venda,id_cliente,cliente,produto,categoria,quantidade,preco_unitario,desconto
+1,2026-05-02,201,  Camila Torres ,Fone Bluetooth,eletronicos,2,200,20
+2,2026-05-03,202,Rafael Lima,Cabo USB-C,acessorios,3,30,0
+3,2026-05-05,201,Camila Torres,Mousepad,Acessórios,1,60,10
+4,2026-05-10,203,Juliana Alves,SSD 1TB,Eletrônicos,1,450,50
+5,2026-05-12,204,Marcos Pinto,Teclado,acessorios,2,150,0
+6,2026-06-01,202,Rafael Lima,Webcam,Eletrônicos,1,300,30
+7,2026-06-04,205,Sofia Costa,Cabo USB-C,Acessórios,2,30,5
+8,2026-06-08,203,Juliana Alves,Monitor,eletronicos,1,1200,100
+9,2026-06-15,201,Camila Torres,SSD 1TB,Eletrônicos,2,450,0
+10,2026-06-20,206,Tiago Rocha,Mousepad,Acessórios,1,60,0
+10,2026-06-20,206,Tiago Rocha,Mousepad,Acessórios,1,60,0
