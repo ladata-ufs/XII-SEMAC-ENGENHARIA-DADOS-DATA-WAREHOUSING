@@ -12,18 +12,21 @@ Repositório oficial do workshop **Introdução à Engenharia de Dados + Data Wa
 XII-SEMAC-ENGENHARIA-DADOS-DATA-WAREHOUSING/
 ├── assets/                                # Imagens e identidade visual do workshop
 │   └── ladata-banner.png
-├── docs/                                  # Plano de trabalho, entregáveis e materiais de apoio
+├── docs/                                  # Plano de trabalho, projeto do Dia 3 e guia de portfólio
 │   ├── proposta_trabalho.md
 │   ├── entregaveis.md
+│   ├── projeto_pratico_dia_03.md          # Storytelling, arquitetura e especificação do Dia 3
 │   └── apendice/
-│       ├── quality-data-tests.md
-│       └── readme-template.md
+│       ├── guia-portfolio-github.md       # Passo a passo para publicar no GitHub pessoal
+│       ├── readme-template.md             # Template de README de portfólio
+│       └── quality-data-tests.md
 ├── data/                                  # Bases de dados, Data Lake, DW e Feature Store por módulo
 │   ├── README.md
 │   ├── modulo_01/                         # Ingestão (arquivos de aula e exercícios)
 │   ├── modulo_02/                         # Comparativo CSV/Parquet, Data Lake (Bronze/Silver/Gold) e exercícios
 │   ├── modulo_03/                         # ETL/ELT, vendas brutas/tratadas e Data Warehouse (DuckDB)
-│   └── modulo_04/                         # Feature Store (offline) em Parquet e CSV
+│   ├── modulo_04/                         # Feature Store (offline) em Parquet e CSV
+│   └── projeto_dia_03/raw/                # Fontes heterogêneas do Projeto Prático (SQLite, CSV, JSON, TXT)
 ├── notebooks/
 │   ├── dia_02/
 │   │   ├── aulas/                         # Notebooks de demonstração guiada
@@ -54,8 +57,14 @@ XII-SEMAC-ENGENHARIA-DADOS-DATA-WAREHOUSING/
 
 ---
 
-## Como Executar Localmente
+## Como Executar
 
+### No Google Colab (Recomendado para o Workshop)
+1. Faça o upload da pasta `data/` deste repositório para dentro de **`Meu Drive/Colab Notebooks/`** na sua conta do Google Drive.
+2. Abra o link do notebook desejado e clique em **Arquivo → Salvar uma cópia no Drive**.
+3. Execute a primeira célula (**Configuração de Acesso aos Dados**) para montar o Google Drive e apontar o diretório de trabalho para `Colab Notebooks`.
+
+### Localmente (VS Code / Jupyter)
 1. Crie e ative um ambiente virtual Python:
    ```bash
    python -m venv .venv
@@ -68,7 +77,7 @@ XII-SEMAC-ENGENHARIA-DADOS-DATA-WAREHOUSING/
    ```bash
    pip install -r requirements.txt
    ```
-3. Abra os notebooks em `notebooks/dia_02/aulas/` ou `notebooks/dia_02/exercicios/` no VS Code ou Jupyter Lab. Todos os caminhos relativos apontam automaticamente para `data/`.
+3. Abra os notebooks em `notebooks/dia_02/aulas/` ou `notebooks/dia_02/exercicios/` e execute a primeira célula — ela detecta automaticamente a execução local e ajusta o diretório para a raiz do repositório.
 
 ---
 
@@ -76,4 +85,6 @@ XII-SEMAC-ENGENHARIA-DADOS-DATA-WAREHOUSING/
 
 - [Proposta de Trabalho e Ementa](docs/proposta_trabalho.md)
 - [Entregáveis por Dia](docs/entregaveis.md)
+- [Especificação do Projeto Prático (Dia 3 — CajuTech)](docs/projeto_pratico_dia_03.md)
 - [Organização dos Dados](data/README.md)
+- [Guia de Portfólio no GitHub](docs/apendice/guia-portfolio-github.md) e [Template de README](docs/apendice/readme-template.md)

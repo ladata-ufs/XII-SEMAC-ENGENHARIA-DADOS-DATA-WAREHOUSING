@@ -14,3 +14,5 @@ Todos os arquivos de entrada e saída utilizados nos notebooks do **Dia 2** fica
   - `exercicios/`: `vendas_brutas_ex.csv` (e `vendas_limpas_ex.parquet` gerado nos exercícios).
 - **`modulo_04/`**:
   - `feature_store/`: `fs_comportamento_cliente.parquet` e `fs_comportamento_cliente.csv` (Feature Store offline exportada para ML).
+- **`projeto_dia_03/raw/`** (Projeto Prático — CajuTech):
+  - `crm_clientes.db` (SQLite), `vendas_brutas.csv` (CSV), `api_produtos.json` (JSON aninhado) e `logs_entregas.txt` (log textual semi-estruturado).

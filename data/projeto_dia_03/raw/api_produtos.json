@@ -1,0 +1,331 @@
+{
+  "api_version": "1.2",
+  "generated_at": "2026-09-01T08:00:00Z",
+  "total_items": 18,
+  "items": [
+    {
+      "produto": {
+        "id": 101,
+        "nome": "Notebook Ultrafino 14",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Computadores"
+      },
+      "fornecedor": {
+        "nome": "TechBrasil",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 3890.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 102,
+        "nome": "Monitor 27 IPS 4K",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Monitores"
+      },
+      "fornecedor": {
+        "nome": "VisionCorp",
+        "pais": "KR"
+      },
+      "pricing": {
+        "preco_tabela": 1850.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 103,
+        "nome": "Teclado Mecânico RGB",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Periféricos"
+      },
+      "fornecedor": {
+        "nome": "KeyMaster",
+        "pais": "CN"
+      },
+      "pricing": {
+        "preco_tabela": 340.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 104,
+        "nome": "Mouse Sem Fio Ergonômico",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Periféricos"
+      },
+      "fornecedor": {
+        "nome": "KeyMaster",
+        "pais": "CN"
+      },
+      "pricing": {
+        "preco_tabela": 185.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 105,
+        "nome": "Headset Noise Cancelling",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Áudio"
+      },
+      "fornecedor": {
+        "nome": "SoundWave",
+        "pais": "DE"
+      },
+      "pricing": {
+        "preco_tabela": 620.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 106,
+        "nome": "Webcam Full HD 1080p",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Periféricos"
+      },
+      "fornecedor": {
+        "nome": "VisionCorp",
+        "pais": "KR"
+      },
+      "pricing": {
+        "preco_tabela": 290.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 107,
+        "nome": "SSD NVMe 1TB",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Armazenamento"
+      },
+      "fornecedor": {
+        "nome": "FlashData",
+        "pais": "TW"
+      },
+      "pricing": {
+        "preco_tabela": 460.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 108,
+        "nome": "HD Externo 2TB USB-C",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Armazenamento"
+      },
+      "fornecedor": {
+        "nome": "FlashData",
+        "pais": "TW"
+      },
+      "pricing": {
+        "preco_tabela": 410.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 109,
+        "nome": "Hub USB-C 7 em 1",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Acessórios"
+      },
+      "fornecedor": {
+        "nome": "CajuParts",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 160.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 110,
+        "nome": "Suporte Articulado Monitor",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Acessórios"
+      },
+      "fornecedor": {
+        "nome": "CajuParts",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 210.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 111,
+        "nome": "Cadeira Ergonômica Mesh",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Escritório"
+      },
+      "fornecedor": {
+        "nome": "ConfortPro",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 1290.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 112,
+        "nome": "Mochila Antifurto Notebook",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Acessórios"
+      },
+      "fornecedor": {
+        "nome": "CajuParts",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 240.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 113,
+        "nome": "Microfone Condensador USB",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Áudio"
+      },
+      "fornecedor": {
+        "nome": "SoundWave",
+        "pais": "DE"
+      },
+      "pricing": {
+        "preco_tabela": 390.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 114,
+        "nome": "Tablet 11 Wi-Fi 128GB",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Computadores"
+      },
+      "fornecedor": {
+        "nome": "TechBrasil",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 2150.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 115,
+        "nome": "Carregador GaN 65W",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Acessórios"
+      },
+      "fornecedor": {
+        "nome": "KeyMaster",
+        "pais": "CN"
+      },
+      "pricing": {
+        "preco_tabela": 145.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 116,
+        "nome": "Placa de Captura HDMI",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Periféricos"
+      },
+      "fornecedor": {
+        "nome": "VisionCorp",
+        "pais": "KR"
+      },
+      "pricing": {
+        "preco_tabela": 530.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 117,
+        "nome": "Ring Light LED Mesa",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Escritório"
+      },
+      "fornecedor": {
+        "nome": "CajuParts",
+        "pais": "BR"
+      },
+      "pricing": {
+        "preco_tabela": 120.0,
+        "moeda": "BRL"
+      }
+    },
+    {
+      "produto": {
+        "id": 118,
+        "nome": "Memória RAM DDR5 16GB",
+        "ativo": true
+      },
+      "categoria": {
+        "nome": "Armazenamento"
+      },
+      "fornecedor": {
+        "nome": "FlashData",
+        "pais": "TW"
+      },
+      "pricing": {
+        "preco_tabela": 380.0,
+        "moeda": "BRL"
+      }
+    }
+  ]
+}
