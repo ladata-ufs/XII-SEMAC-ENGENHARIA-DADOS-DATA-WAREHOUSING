@@ -1,3 +1,5 @@
-.venv/ 
+.venv/
 venv/
-notebooks/D2/modulo_04_exercicios_gabarito.ipynb
+__pycache__/
+.ipynb_checkpoints/
+notebooks/dia_02/exercicios/modulo_04_exercicios_gabarito.ipynb
